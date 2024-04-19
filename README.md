@@ -1,5 +1,5 @@
-# CASF
-The meanings of the related fields in the attribute table are as follows.
+# The meanings of the related fields in the attribute table are as follows：
+
 CASF：Comprehensive accessibility of service facilities.
 CISF：Comprehensive index of service facilities.
 POP：Population.
