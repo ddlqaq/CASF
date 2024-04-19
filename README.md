@@ -1,2 +1,7 @@
 # CASF
-Investigating the spatiotemporal pattern for the comprehensive accessibility of service facilities using location-based service big data (2016 to 2022)
+The meanings of the related fields in the attribute table are as follows.
+CASF：Comprehensive accessibility of service facilities.
+CISF：Comprehensive index of service facilities.
+POP：Population.
+SUM_ Y17T16: Represents the total number of POIs of Type 16 within the unit for the year 2017
+
