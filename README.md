@@ -8,7 +8,7 @@
 3. Processing and opening of data.
 	Data decryption is achieved by thinning and shifting at the ArcGIS perform, then converting it to JSON format through SuperMap; this process ensures the privacy protection of the data. The data can be accessed through SuperMap, ArcMap, and other software.
  
-4. The meaning of the field.
+## The meaning of the field.
 	CASF：Comprehensive accessibility of service facilities.
 	CISF：Comprehensive index of service facilities.
 	POP：Population.
